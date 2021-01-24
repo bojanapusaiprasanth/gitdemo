@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 afwnfewnfoewernfnregnn
+=======
+dfdsglkfdgnelngrernerlner`
+>>>>>>> branch2
